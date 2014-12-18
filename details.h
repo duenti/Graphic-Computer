@@ -1,0 +1,39 @@
+#include <windows.h>
+#include <GL/glut.h>
+#include <iostream>
+#include <math.h>
+
+using namespace std;
+
+void basket();
+void basketsFirstFloor();
+void officeTable();
+void officeTablesFirstFloor();
+void miniChair();
+void chair();
+void firstFloorCharis();
+void apagador();
+void apagadoresPrimeiroAndar();
+void lamp();
+void baseLamp();
+void outerLamp();
+void firstFloorLamps();
+void estante();
+void estantesPrimeiroAndar();
+void armario();
+void armariosPrimeiroAndar();
+void table1();
+void chair1();
+void completeTable1();
+void tables1FirstFloor();
+void cup();
+void firstFloorCups();
+void table2();
+void chair2();
+void completeTable2();
+void tablesSecondFloor();
+void dish();
+void firstFloorDishes();
+void outerLamps();
+void noteBook();
+void noteBooks();
